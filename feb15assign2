@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+print(a//b)
+print(a/b)
+output
+2
+8
+0
+0.25
